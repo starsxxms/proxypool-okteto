@@ -550,6 +550,41 @@
   options:
     channel: 
     num: 200
+    
+- type: tgchannel
+  options:
+    channel: ssrv2taytgshare
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: fanqiangqun
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: ssList
+    num: 200
+    
+ - type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+    
+ - type: tgchannel
+  options:
+    channel: ssrshare
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: freebaipiao
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: freebaipiao
+    num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
