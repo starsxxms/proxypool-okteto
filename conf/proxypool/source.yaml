@@ -2,6 +2,10 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    
+- type: webfuzzsub
+  options:
+    url: https://sspool.herokuapp.com/vmess/sub
 
 # 订阅链接
 - type: subscribe
@@ -51,6 +55,10 @@
 - type: subscribe
   options:
     url: https://youlianboshi.netlify.app/
+
+- type: subscribe
+  options:
+    url: https://v2ray.banyunxiaoxi.ml/
 
 - type: subscribe
   options:
