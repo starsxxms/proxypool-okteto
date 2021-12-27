@@ -63,6 +63,10 @@
 - type: subscribe
   options:
     url: https://v2ray.banyunxiaoxi.ml/
+    
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies?type=ss,ssr,vmess,trojan
 
 # 网页模糊抓取
 - type: webfuzz
